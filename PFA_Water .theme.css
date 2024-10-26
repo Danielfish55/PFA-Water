@@ -2,7 +2,7 @@
  * @name PFA Water
  * @author Danielfish55
  * @version 1.0 X
- * @source https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/tree/master/Themes/GGO_Kirito
+ * @source https://github.com/Danielfish55/PFA-Water
  */
 
  :root{
@@ -348,7 +348,7 @@ Theme Owned and Made by Danielfish55
        #app-mount .jumpToPresentBar_cf58b5 {background-color: var(--secondary3-colour);}
        #app-mount .jumpToPresentBar_cf58b5:hover {background-color: var(--secondary2-colour);}
 
-       #app-mount .message_d5deea {padding: 0px 48px 0px 72px;}
+       #app-mount .message_d5deea {padding: 0px 48px 3px 72px;}
        #app-mount .message_d5deea.cozyMessage_d5deea .container_b558d0,
        #app-mount .message_d5deea.cozyMessage_d5deea .contents_ec86aa {
            background-color: var(--secondary1-colour);
@@ -370,7 +370,9 @@ Theme Owned and Made by Danielfish55
            background-color: var(--secondary1-colour);
            margin: 2px 20px 0px 0px;
        }
-       #app-mount .hasReply_ec86aa .buttonContainer_ec86aa .wrapper_ef319f{ margin-top: 24px; }
+       #app-mount .hasReply_f9f2ca .buttonContainer_f9f2ca .wrapper_f7e168{ margin-top: 24px; }
+
+       #app-mount .chat_a7d72e .scrollableContainer_bdf0de { background-color: var(--secondary3-colour); }
 
        /*Embeds*/
            #app-mount .embedFull_ad0b71 {
